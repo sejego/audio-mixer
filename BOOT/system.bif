@@ -1,0 +1,7 @@
+//arch = zynq; split = false; format = BIN
+the_ROM_image:
+{
+	[bootloader]../../FSBL/executable.elf
+	../vivado/audio_mixer_wrapper.bit
+	../../u-boot-xlnx/u-boot.elf
+}
