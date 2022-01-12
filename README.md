@@ -4,7 +4,7 @@ System features volume gainers and IIR filters (for every audio stream) for cont
 The system was implemented on a ZedBoard with Zynq-7000 SoC. IIR filters, volume gainers and audio system is designed with VHDL for hardware implementation,
 while control logic is implemented mainly in Linux.
 
-Read more about the project implementation [here]()
+Read more about the project implementation [here](http://www.sejego.engineer//personal/1_audio_mixer/)
 
 ## Authors
 Sergei Jegorov 204707IASM
